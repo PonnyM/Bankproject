@@ -5,7 +5,7 @@ Django
 idna
 numpy
 pandas
-psycopg2
+psycopg2-binary
 python-dateutil
 pytz
 requests
